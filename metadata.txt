@@ -1,0 +1,2 @@
+Combined genome sequences of e. coli in a multiple-generation evolutionary experiment
+-glucose +citrate
